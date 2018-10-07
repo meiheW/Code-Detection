@@ -9,7 +9,7 @@
 <l>dev_update_off()</l>
 <l>dev_close_window()</l>
 <c>****** read the image ******</c>
-<l>read_image (Image, './11-20/14.bmp')</l>
+<l>read_image (Image, './11-20/1.bmp')</l>
 <l>*read_image (Image, './11-14/8.bmp')</l>
 <l>*read_image (Image, './元器件小圆盘条码图片/4.bmp')</l>
 <l>*read_image (Image, './条码图片-A4二维/3.bmp')</l>
