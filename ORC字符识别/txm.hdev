@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<l>Directory :='./tmp'</l>
+<c></c>
+<l>NumberVal:=6</l>
+<l>WhiteThreMin:=100</l>
+<l>WhiteThreMax:=135</l>
+<l>Percent:=3/5</l>
+<l>NumberThre:=100</l>
+<c></c>
+<l>dev_update_window('off')</l>
+<l>dev_set_draw('fill')</l>
+<c></c>
+<l>list_files (Directory, 'files', Files)</l>
+<c></c>
+<l>for Index := 0 to |Files|-1 by 1</l>
+<c>    *读取图像</c>
+<l>    read_image (Image, Files[Index])</l>
+<l>    dev_close_window()</l>
+<l>    *dev_open_window (0, 0, 512, 512, 'black', WindowHandle)</l>
+<l>    dev_open_window_fit_image (Image, 0, 0, -1, -1, WindowHandle)</l>
+<l>    set_display_font (WindowHandle, 16, 'mono', 'true', 'false')</l>
+<l>    dev_set_line_width (2)</l>
+<l>    dev_display (Image)</l>
+<l>    *disp_continue_message (WindowHandle, 'black', 'true')</l>
+<c></c>
+<l>    stop()</l>
+<c>    </c>
+<c>    ******寻找白色条形码*******</c>
+<c>    *阈值</c>
+<l>    threshold (Image, Region, WhiteThreMin, WhiteThreMax)</l>
+<c>    *开运算去除干扰点</c>
+<l>    opening_circle (Region, RegionOpening, 3)</l>
+<c>    *连通</c>
+<l>    connection (RegionOpening, ConnectedRegions)</l>
+<c>    *形状变化</c>
+<l>    shape_trans (ConnectedRegions, RegionTrans, 'convex')</l>
+<c>    *根据面积选择</c>
+<l>    select_shape_std (RegionTrans, SelectedRegions, 'max_area', 70)</l>
+<c>    </c>
+<l>    reduce_domain (Image, SelectedRegions, barcode)</l>
+<l>    dev_display (SelectedRegions)</l>
+<l>    stop()</l>
+<c>    ******进一步缩小区域*******</c>
+<l>    smallest_rectangle1 (SelectedRegions, Row1, Column1, Row2, Column2)</l>
+<l>    gen_rectangle1 (Rectangle, Row1,(2*Column1+3*Column2)/5, Row2, Column2)</l>
+<l>    reduce_domain (Image, Rectangle, RightCode)</l>
+<c>    </c>
+<c>    *阈值</c>
+<l>    threshold (RightCode, RightRegion, WhiteThreMin, WhiteThreMax)</l>
+<c>    *开运算</c>
+<l>    opening_circle (RightRegion, RightRegionOpening, 3)</l>
+<c>    *连通</c>
+<l>    connection (RightRegionOpening, RightRegionOpening)</l>
+<c>    *形状变化</c>
+<l>    shape_trans (RightRegionOpening, TORightRegionTrans, 'rectangle2')</l>
+<c>    *根据面积选择</c>
+<l>    select_shape_std (TORightRegionTrans, RightRegionTrans, 'max_area', 70)</l>
+<c>    </c>
+<l>    reduce_domain (Image, RightRegionTrans, RightRect)</l>
+<c>    </c>
+<l>    *dev_display (RightRegionTrans)</l>
+<l>    *stop()</l>
+<c>    ******筛选出目标字母*****</c>
+<c>    *阈值</c>
+<l>    threshold (RightRect, ToNumbers, 0, NumberThre)</l>
+<c>    *开运算 </c>
+<l>    opening_circle (ToNumbers, ToBeNumbers, 3.5)</l>
+<c>    *连通</c>
+<l>    connection (ToBeNumbers, ConnectedNumbers)</l>
+<c>    *筛选</c>
+<l>    select_shape (ConnectedNumbers, NumberRegion, ['area','width','height'], 'and',[400,20,30], [2000,60,50])</l>
+<c>    </c>
+<c>    *******去除其他未排除的区域******</c>
+<l>    sort_region (NumberRegion, SortedRegions, 'upper_left', 'true', 'column')</l>
+<l>    count_obj (SortedRegions, Count)</l>
+<l>    dev_display (NumberRegion)</l>
+<l>    i:=1</l>
+<l>    while(Count&gt;NumberVal)</l>
+<l>            select_obj (SortedRegions, ObjectSelected, i)</l>
+<l>            difference (NumberRegion, ObjectSelected, NumberRegion)</l>
+<l>            i:=1+1</l>
+<l>            Count:=Count-1</l>
+<l>    endwhile</l>
+<c>    </c>
+<l>    dev_display (Image)</l>
+<l>    dev_display (NumberRegion)</l>
+<l>    stop()</l>
+<c>    </c>
+<c>     </c>
+<l>endfor</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
