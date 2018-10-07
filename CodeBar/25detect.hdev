@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c>* Read bar codes of type 2/5 Industrial</c>
+<c>* </c>
+<l>create_bar_code_model ([], [], BarCodeHandle)</l>
+<c></c>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_variable', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'majority_voting', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_min', 1)</l>
+<l>set_bar_code_param (BarCodeHandle, 'meas_param_estimation', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'num_scanlines', 8)</l>
+<l>set_bar_code_param (BarCodeHandle, 'quiet_zone', 'false')</l>
+<c>* We expect to decode a single bar code per image</c>
+<l>* set_bar_code_param (BarCodeHandle, 'stop_after_result_num', 1)</l>
+<c>* </c>
+<c>* Some codes show a minimal code length of 1 digit. Hence, we need to decrease the</c>
+<c>* default setting for this application.</c>
+<l>*set_bar_code_param_specific (BarCodeHandle, '2/5 Industrial', 'min_code_length', 1)</l>
+<c>* Note, that this is not recommended in real world applications due to the possibility</c>
+<c>* of more false reads.</c>
+<c>* </c>
+<c></c>
+<l>dev_close_window ()</l>
+<l>dev_open_window (0, 0, 120, 300, 'black', WindowHandle)</l>
+<l>set_display_font (WindowHandle, 14, 'mono', 'true', 'false')</l>
+<l>dev_set_draw ('margin')</l>
+<l>dev_set_line_width (3)</l>
+<c></c>
+<l>    read_image (Image, 'codebar')</l>
+<l>    get_image_size (Image, Width, Height)</l>
+<l>    dev_set_window_extents (0, 0, Width - 1, Height - 1)</l>
+<l>    dev_display (Image)</l>
+<l>    dev_set_color ('green')</l>
+<c>    * Read bar code, the resulting string includes the check character</c>
+<l>    set_bar_code_param (BarCodeHandle, 'check_char', 'absent')</l>
+<l>    find_bar_code (Image, SymbolRegions, BarCodeHandle, 'auto', DecodedDataStrings)</l>
+<l>    disp_message (WindowHandle, DecodedDataStrings, 'window', 12, 12, 'black', 'false')</l>
+<l>    LastChar := strlen(DecodedDataStrings) - 1</l>
+<l>   * disp_message (WindowHandle, sum(gen_tuple_const(LastChar,' ')) + DecodedDataStrings{LastChar}, 'window', 12, 12, 'forest green', 'false')</l>
+<l>    stop ()</l>
+<c></c>
+<c>    </c>
+<c></c>
+<l>clear_bar_code_model (BarCodeHandle)</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

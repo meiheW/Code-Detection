@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c>********************recognize the Data Bars*************************</c>
+<c></c>
+<c>********************firstly check the QR code*************************</c>
+<l>dev_update_off()</l>
+<l>dev_close_window()</l>
+<c>****** read the image ******</c>
+<l>*read_image (Image, './元器件小圆盘条码图片/1.bmp')</l>
+<l>read_image (Image, './条码图片-A4二维/6.bmp')</l>
+<c></c>
+<l>count_seconds (t1)</l>
+<l>*read_image (Image, '6.jpg')</l>
+<l>read_image (Image, './11-20/2.bmp')</l>
+<l>dev_open_window_fit_image (Image, 0, 0, -1, -1, WindowHandle)</l>
+<l>set_display_font (WindowHandle, 16, 'mono', 'true', 'false')</l>
+<l>dev_set_line_width (3)</l>
+<l>dev_set_draw ('margin')</l>
+<l>dev_set_color ('green')</l>
+<l>dev_display (Image)</l>
+<l>*stop()</l>
+<c>****** create the  model ******</c>
+<l>create_data_code_2d_model ('QR Code', 'default_parameters', 'maximum_recognition', DataCodeHandle)</l>
+<c>******find the  code******</c>
+<l>find_data_code_2d (Image, SymbolXLDs, DataCodeHandle, [], [], ResultHandles, QRcodeStrings)</l>
+<l>dev_display (SymbolXLDs)</l>
+<l>*disp_message (WindowHandle, QRcodeStrings, 'window', 420, 160, 'black', 'true')</l>
+<c></c>
+<c>********************secondly check the barcode*************************</c>
+<c></c>
+<l>create_bar_code_model ([], [], BarCodeHandle)</l>
+<c>******set the parameters******</c>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_variable', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'majority_voting', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_min', 1.5)</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_max', 2)</l>
+<l>*set_bar_code_param (BarCodeHandle, 'meas_param_estimation', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'num_scanlines', 2)</l>
+<l>*set_bar_code_param (BarCodeHandle, 'quiet_zone', 'false')</l>
+<c></c>
+<l>find_bar_code (Image, SymbolRegions, BarCodeHandle, 'auto', BarcodeStrings)</l>
+<l>get_bar_code_result (BarCodeHandle, 'all', 'decoded_types', DecodedDataTypes)</l>
+<l>for i := 1 to |BarcodeStrings| by 1</l>
+<l>    disp_message(WindowHandle,[DecodedDataTypes + ':' + BarcodeStrings], DecodedDataTypes, 12, 12, 'black', 'true')</l>
+<l>endfor</l>
+<l>    disp_message(WindowHandle,['QR code:' + QRcodeStrings], DecodedDataTypes, 14*12, 12, 'black', 'true')</l>
+<c></c>
+<l>dev_display (SymbolRegions)</l>
+<l>clear_data_code_2d_model (DataCodeHandle)</l>
+<l>clear_bar_code_model (BarCodeHandle)</l>
+<l>count_seconds (t2)</l>
+<c></c>
+<l>Time := t2-t1</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

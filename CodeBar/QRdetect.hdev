@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c></c>
+<l>read_image (Image, 'C:/Users/Administrator/Desktop/codebar/codebar.jpg')</l>
+<l>create_data_code_2d_model ('QR Code', 'default_parameters', 'maximum_recognition', DataCodeHandle)</l>
+<l>find_data_code_2d (Image, SymbolXLDs, DataCodeHandle, [], [], ResultHandles, DecodedDataStrings)</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
