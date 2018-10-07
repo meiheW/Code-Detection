@@ -77,7 +77,7 @@ namespace ChipDetection
             //UserLogin(false);
                               
             m_grabThreadExited = new AutoResetEvent(false);
-            //CAM_connect();
+            CAM_connect();
 
             //mCom_ = new SerialPort();
             //mCom_Open();

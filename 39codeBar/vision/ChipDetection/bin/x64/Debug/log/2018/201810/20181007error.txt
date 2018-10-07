@@ -1,0 +1,6 @@
+
+2018-10-07 21:26:17,504 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\FormMain.cs:行号 327

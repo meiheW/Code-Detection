@@ -201,7 +201,6 @@ F:\project\workarea\codeDetect\V2\vision\ChipDetection\obj\x64\Debug\ChipDetecti
 F:\project\workarea\codeDetect\V2\vision\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
 F:\project\workarea\codeDetect\V2\vision\ChipDetection\obj\x64\Debug\ChipDetection.exe
 F:\project\workarea\codeDetect\V2\vision\ChipDetection\obj\x64\Debug\ChipDetection.pdb
-F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
@@ -215,3 +214,17 @@ F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\Chip
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.exe
 F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\ChipDetection.exe
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\log4net.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\office.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\bin\x64\Debug\office.xml
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+F:\project\workarea\codeDetect\39codeBar\vision\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
