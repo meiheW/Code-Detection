@@ -1,0 +1,22 @@
+
+2017-05-17 12:47:23,761 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 475
+
+2017-05-17 12:49:56,694 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 475
+
+2017-05-17 12:51:06,364 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 475
+
+2017-05-17 16:57:04,680 [6] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 286
+
+2017-05-17 17:55:54,591 [6] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 286

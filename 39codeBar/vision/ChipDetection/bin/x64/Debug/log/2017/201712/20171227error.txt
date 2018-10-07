@@ -1,0 +1,224 @@
+
+2017-12-27 00:03:24,638 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.btnStop_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 621
+
+2017-12-27 01:35:20,665 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 283
+
+2017-12-27 01:40:09,258 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 01:40:39,846 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 283
+
+2017-12-27 01:44:23,586 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 01:49:45,191 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 283
+
+2017-12-27 01:56:34,732 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 02:05:54,020 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 09:42:19,043 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 724
+
+2017-12-27 09:42:27,010 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 722
+
+2017-12-27 09:42:37,473 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 09:44:20,715 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 285
+
+2017-12-27 10:23:20,606 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 277
+
+2017-12-27 11:11:39,206 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 275
+
+2017-12-27 11:11:51,002 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 275
+
+2017-12-27 11:24:39,981 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 277
+
+2017-12-27 11:24:57,136 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 277
+
+2017-12-27 12:57:59,562 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 275
+
+2017-12-27 13:56:22,252 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 678
+
+2017-12-27 14:42:10,097 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 511
+
+2017-12-27 14:42:15,909 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 509
+
+2017-12-27 14:42:22,182 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 509
+
+2017-12-27 16:31:09,726 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 218
+
+2017-12-27 16:31:12,288 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 216
+
+2017-12-27 16:33:00,042 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 218
+
+2017-12-27 16:33:22,745 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 216
+
+2017-12-27 16:36:00,547 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 218
+
+2017-12-27 16:38:53,927 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.TimeoutException: Grab timed out. The acquisition is not started. : TimeoutException thrown (file 'InstantCameraImpl.h', line 1043)
+   在 Basler.Pylon.CStreamGrabberImpl.RetrieveResult(Int32 timeoutMs, TimeoutHandling timeoutHandling)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 218
+
+2017-12-27 16:39:07,129 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start()
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 216
+
+2017-12-27 16:51:03,409 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Configuration.ConfigurationErrorsException: 配置系统未能初始化 ---> System.Configuration.ConfigurationErrorsException: 每个配置文件中只允许存在一个 <configSections> 元素，并且，如果存在该元素，它还必须是根 <configuration> 元素的第一个子元素。 (F:\条形码\V3\vision\ChipDetection\bin\x64\Debug\ChipDetection.exe.Config line 16)
+   在 System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   在 System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   在 System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   在 System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   在 System.Configuration.ConfigurationManager.get_AppSettings()
+   在 log4net.Util.SystemInfo.GetAppSetting(String key)
+
+2017-12-27 16:51:14,643 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 216
+
+2017-12-27 16:51:52,307 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: The stream grabber is already grabbing.
+   在 Basler.Pylon.CStreamGrabberImpl.RaiseExceptionIfAlreadyGrabbing()
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 ChipDetection.FormChipDetection.Snap_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 216
+
+2017-12-27 16:53:12,473 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Configuration.ConfigurationErrorsException: 配置系统未能初始化 ---> System.Configuration.ConfigurationErrorsException: 每个配置文件中只允许存在一个 <configSections> 元素，并且，如果存在该元素，它还必须是根 <configuration> 元素的第一个子元素。 (F:\条形码\V3\vision\ChipDetection\bin\x64\Debug\ChipDetection.exe.Config line 16)
+   在 System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   在 System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   在 System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   在 System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   在 System.Configuration.ConfigurationManager.get_AppSettings()
+   在 log4net.Util.SystemInfo.GetAppSetting(String key)
+
+2017-12-27 16:56:52,548 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Configuration.ConfigurationErrorsException: 配置系统未能初始化 ---> System.Configuration.ConfigurationErrorsException: 每个配置文件中只允许存在一个 <configSections> 元素，并且，如果存在该元素，它还必须是根 <configuration> 元素的第一个子元素。 (F:\条形码\V3\vision\ChipDetection\bin\x64\Debug\ChipDetection.exe.Config line 16)
+   在 System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   在 System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   在 System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   在 System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   在 System.Configuration.ConfigurationManager.get_AppSettings()
+   在 log4net.Util.SystemInfo.GetAppSetting(String key)

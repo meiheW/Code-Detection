@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c>********************recognize the Data Bars*************************</c>
+<c></c>
+<c>****** read the image ******</c>
+<l>read_image (Image, '1.bmp')</l>
+<c>*gen_image1(&amp;ho_Image,"byte",w,h,(Hlong)pdata);</c>
+<l>dev_open_window_fit_image (Image, 0, 0, -1, -1, WindowHandle)</l>
+<c></c>
+<l>dev_set_color ('red')</l>
+<c>********************Pretreatment******************</c>
+<c></c>
+<c>********************check the barcode*************************</c>
+<c></c>
+<l>create_bar_code_model ([], [], BarCodeHandle)</l>
+<c></c>
+<c>******set the parameters******</c>
+<c></c>
+<l>set_bar_code_param (BarCodeHandle, 'majority_voting', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_min', 1.2)</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_max', 2)</l>
+<l>set_bar_code_param (BarCodeHandle, 'element_size_variable', 'true')</l>
+<l>set_bar_code_param (BarCodeHandle, 'num_scanlines', 3)</l>
+<c></c>
+<l>find_bar_code (Image, SymbolRegions, BarCodeHandle, 'Code 39', BarcodeStrings)</l>
+<l>get_bar_code_result (BarCodeHandle, 'all', 'decoded_types', DecodedDataTypes)</l>
+<c></c>
+<l>count_obj (SymbolRegions, Number)</l>
+<c></c>
+<l>for Index := 0 to Number-1 by 1</l>
+<c>    **********************</c>
+<c>    *******循环体内********</c>
+<l>    curstring := BarcodeStrings[Index]</l>
+<c>    *转化为string类型，存入Vector,存入txt；</c>
+<c>    *******循环体内*********</c>
+<c>    ***********************</c>
+<l>endfor</l>
+<c></c>
+<c>*************************</c>
+<c>****处理字符串并输出******</c>
+<c>*************************</c>
+<c></c>
+<l>dev_display (Image)</l>
+<l>dev_display (SymbolRegions)</l>
+<c></c>
+<l>dump_window_image (Image1, WindowHandle)</l>
+<l>write_image (Image1, 'bmp', 0, 'processed')</l>
+<l>rgb1_to_gray (Image1, GrayImage)</l>
+<l>convert_image_type (GrayImage, ImageConverted, 'byte')</l>
+<l>get_image_pointer1 (ImageConverted, Pointer, Type, Width, Height)</l>
+<l>tuple_int (Pointer, PointerInt)</l>
+<c>**memcpy(pdata, (unsigned char*)hv_PointerInt.val.l, h*w);</c>
+<c></c>
+<c>*关闭窗口</c>
+<l>dev_close_window()</l>
+<c>*清除句柄</c>
+<l>clear_bar_code_model (BarCodeHandle)</l>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

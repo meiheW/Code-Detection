@@ -1,0 +1,20 @@
+
+2017-08-24 09:49:29,194 [6] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V3\vision\ChipDetection\FormMain.cs:行号 296
+
+2017-08-24 09:51:21,978 [6] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V3\vision\ChipDetection\FormMain.cs:行号 296
+
+2017-08-24 09:54:27,841 [6] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V3\vision\ChipDetection\FormMain.cs:行号 296
+
+2017-08-24 11:33:41,781 [11] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.OverflowException: 对 2 的补数的最小值求反的操作无效。
+   在 System.Math.AbsHelper(Int32 value)
+   在 ChipDetection.FormChipDetection.Send_Offset() 位置 C:\Users\Administrator\Desktop\V3\vision\ChipDetection\FormMain.cs:行号 296

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChipDetection">
+</Property><Property Name="解决方案文件" Value="D:\ChipDetection\ChipDetection\ChipDetection.sln">
+</Property><Property Name="用户选项文件" Value="D:\ChipDetection\ChipDetection\ChipDetection.suo">
+</Property><Property Name="Date" Value="2016年11月18日">
+</Property><Property Name="Time" Value="9:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ChipDetection.sln" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ChipDetection.suo" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection.suo">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipDetection.csproj" Description="项目文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\ChipDetection.csproj">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipDetection.csproj.user" Description="项目用户文件成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\ChipDetection.csproj.user">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\AccessExcel.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\AccessExcel.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\AccessIniFile.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\AccessIniFile.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipDetection.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\ChipDetection.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipTemplate.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\ChipTemplate.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormAddUser.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormAddUser.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormAddUser.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormAddUser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormNewTemplate.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormNewTemplate.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormNewTemplate.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormNewTemplate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUser.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUser.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUser.designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUser.designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUserAuthority.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUserAuthority.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUserAuthority.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUserAuthority.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\HIKCamera.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\HIKCamera.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Configuration.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Configuration.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\EM9636B.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\EM9636B.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormCode.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormCode.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormCode.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormCode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormFunctionTest.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormFunctionTest.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormFunctionTest.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormFunctionTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormMain.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormMain.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\MiscFunction.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\MiscFunction.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Parameter.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Program.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Program.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\UserAuthority.cs" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\UserAuthority.cs">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\App.config" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\App.config">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Properties\Settings.settings" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormAddUser.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormAddUser.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormAddUser.zh-CHS.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormAddUser.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormCode.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormCode.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormFunctionTest.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormFunctionTest.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormMain.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormNewTemplate.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormNewTemplate.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUser.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUser.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUser.zh-CHS.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUser.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUserAuthority.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUserAuthority.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUserAuthority.zh-CHS.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUserAuthority.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\FormUserAuthority.zh-TW.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\FormUserAuthority.zh-TW.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\Properties\Resources.resx" Description="文件已成功备份为 D:\ChipDetection\ChipDetection\Backup\ChipDetection\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipDetection.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ChipDetection" Source="ChipDetection\ChipDetection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChipDetection.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ChipDetection.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChipDetection" Source="ChipDetection\ChipDetection.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

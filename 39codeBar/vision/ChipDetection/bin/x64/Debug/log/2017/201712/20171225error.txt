@@ -1,0 +1,28 @@
+
+2017-12-25 17:17:00,464 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Runtime.InteropServices.COMException (0xC2000001): 异常来自 HRESULT:0xC2000001
+   在 PylonC.NET.Pylon.PylonDeviceOpen(IntPtr hDev, Int32 accessMode)
+   在 PylonC.NET.Pylon.DeviceOpen(PYLON_DEVICE_HANDLE hDev, Int32 accessMode)
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 516
+
+2017-12-25 17:20:08,924 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Runtime.InteropServices.COMException (0xC2000001): 异常来自 HRESULT:0xC2000001
+   在 PylonC.NET.Pylon.PylonDeviceGrabSingleFrame(IntPtr hDev, IntPtr channel, IntPtr buffer, IntPtr bufferSize, PylonGrabResultInternal& grabResult, Byte& rdy, UInt32 timeout)
+   在 PylonC.NET.Pylon.DeviceGrabSingleFrame[T](PYLON_DEVICE_HANDLE hDev, Int32 channel, PylonBuffer`1& buffer, PylonGrabResult_t& grabResult, UInt32 timeout)
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 529
+
+2017-12-25 17:48:21,118 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Runtime.InteropServices.COMException (0xC2000001): 异常来自 HRESULT:0xC2000001
+   在 PylonC.NET.Pylon.PylonDeviceGrabSingleFrame(IntPtr hDev, IntPtr channel, IntPtr buffer, IntPtr bufferSize, PylonGrabResultInternal& grabResult, Byte& rdy, UInt32 timeout)
+   在 PylonC.NET.Pylon.DeviceGrabSingleFrame[T](PYLON_DEVICE_HANDLE hDev, Int32 channel, PylonBuffer`1& buffer, PylonGrabResult_t& grabResult, UInt32 timeout)
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 529
+
+2017-12-25 17:53:15,248 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Runtime.InteropServices.COMException (0xC2000001): 异常来自 HRESULT:0xC2000001
+   在 PylonC.NET.Pylon.PylonDeviceGrabSingleFrame(IntPtr hDev, IntPtr channel, IntPtr buffer, IntPtr bufferSize, PylonGrabResultInternal& grabResult, Byte& rdy, UInt32 timeout)
+   在 PylonC.NET.Pylon.DeviceGrabSingleFrame[T](PYLON_DEVICE_HANDLE hDev, Int32 channel, PylonBuffer`1& buffer, PylonGrabResult_t& grabResult, UInt32 timeout)
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 529
+
+2017-12-25 18:50:54,958 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: No devices found.
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 514

@@ -1,0 +1,449 @@
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\FlyCapture2Managed_v90.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\office.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\office.xml
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.pdb
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.exe
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.pdb
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.exe
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\ChipDetection.pdb
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\FlyCapture2Managed_v90.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\office.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\office.xml
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.exe
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.exe
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.pdb
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\office.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Release\office.xml
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-13\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detec-NoMotor\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\office.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\bin\x64\Release\office.xml
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\RW-NoMotor\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\FlyCapture2Managed_v90.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\office.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\bin\x64\Release\office.xml
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormCode.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormFunctionTest.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\RW-NoMotor-src\RW-NoMotor\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+F:\程序\师兄\范例\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+F:\程序\师兄\范例\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.exe
+F:\程序\师兄\范例\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\范例\RW-NoMotor\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\范例\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\范例\RW-NoMotor\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\office.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\bin\x64\Release\office.xml
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\4-29\vision\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\ChipDetection.exe
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\ChipDetection.pdb
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\office.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\bin\x64\Release\office.xml
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\V2\vision\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.exe
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.pdb
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\ChipDetection.exe
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\ChipDetection.pdb
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\office.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+F:\条形码\V3\vision\ChipDetection\bin\x64\Release\office.xml
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+F:\条形码\V3\vision\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\ChipDetection.exe.config
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.exe
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.pdb
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\ChipDetection.exe
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\ChipDetection.pdb
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\zh-CHS\ChipDetection.resources.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\zh-TW\ChipDetection.resources.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\office.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\Microsoft.Vbe.Interop.dll
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\Microsoft.Office.Interop.Excel.xml
+F:\条形码\V1\vision\ChipDetection\bin\x64\Release\office.xml
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormChipDetection.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormNewTemplate.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.Properties.Resources.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormAddUser.zh-CHS.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUser.zh-CHS.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-CHS.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.FormUserAuthority.zh-TW.resources
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\ChipDetection.csproj.GenerateResource.Cache
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\zh-CHS\ChipDetection.resources.dll
+F:\条形码\V1\vision\ChipDetection\obj\x64\Release\zh-TW\ChipDetection.resources.dll

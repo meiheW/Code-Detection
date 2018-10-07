@@ -1,0 +1,11 @@
+
+2017-05-27 16:03:47,292 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 474
+
+2017-05-27 16:03:47,879 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.IO.IOException: 端口“COM6”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 ChipDetection.FormChipDetection.mCom_Open() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 226

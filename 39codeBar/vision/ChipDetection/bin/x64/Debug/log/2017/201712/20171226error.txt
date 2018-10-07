@@ -1,0 +1,162 @@
+
+2017-12-26 16:23:12,027 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 504
+
+2017-12-26 16:57:03,899 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 504
+
+2017-12-26 17:04:50,345 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:05:24,697 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:05:46,365 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:06:23,457 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:06:38,092 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:11:40,241 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:12:56,984 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:24:59,683 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:25:17,591 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:31:44,321 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 505
+
+2017-12-26 17:32:55,505 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 506
+
+2017-12-26 18:21:29,605 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 18:21:44,300 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 18:22:24,787 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 18:23:20,915 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 18:24:00,206 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 18:34:33,997 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 19:27:52,955 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.InvalidOperationException: No matching camera found.
+   在 Basler.Pylon.FindCamera(CDeviceInfo* , CDeviceInfo* filter, CameraSelectionStrategy selectionStrategy)
+   在 Basler.Pylon.Camera..ctor()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 504
+
+2017-12-26 19:29:24,701 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 19:41:39,633 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 19:53:43,282 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 19:54:57,331 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 19:56:23,071 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 518
+
+2017-12-26 21:24:58,025 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.Exception: Failed to open 'Basler acA3800-10gm#00305324B318#192.168.7.88:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 248)
+   在 Basler.Pylon.Camera.Open()
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 304
+
+2017-12-26 22:18:34,065 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.DllNotFoundException: 无法加载 DLL“myprocess.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 ChipDetection.ChipDetection.teststring(String val)
+   在 ChipDetection.ChipDetection.mts() 位置 F:\条形码\V3\vision\ChipDetection\ChipDetection.cs:行号 224
+   在 ChipDetection.FormChipDetection.btnTest_Click(Object sender, EventArgs e) 位置 F:\条形码\V3\vision\ChipDetection\FormMain.cs:行号 646

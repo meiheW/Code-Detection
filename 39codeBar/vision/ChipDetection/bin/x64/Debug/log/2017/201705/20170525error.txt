@@ -1,0 +1,4 @@
+
+2017-05-25 12:49:17,186 [1] ERROR ChipDetection.FormChipDetection [(null)] - Error
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ChipDetection.FormChipDetection.CAM_connect() 位置 C:\Users\Administrator\Desktop\V2\vision\ChipDetection\FormMain.cs:行号 474
