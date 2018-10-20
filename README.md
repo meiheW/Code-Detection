@@ -1,7 +1,9 @@
 <div align="center">
     <h1>
-    	Motor-Servo
+    	Code-Detect
 	</h1>
 	
 </div>
-HALCON视觉库条形码检测
+
+## About
+基于Halcon视觉库的条形码识别软件开发
