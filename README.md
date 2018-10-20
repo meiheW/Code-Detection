@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    	Code-Detect
+    	Code-Detection
 	</h1>
 	
 </div>
