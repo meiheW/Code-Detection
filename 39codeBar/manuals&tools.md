@@ -1,1 +1,0 @@
-# Halocon 12.02 & Sapera SDK
