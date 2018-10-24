@@ -2,7 +2,7 @@
     <h1>
     	Code-Detection
 	</h1>
-	
+	<img src="camera.jpg" width="150px">
 </div>
 
 ## About
